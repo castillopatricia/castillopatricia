@@ -3,6 +3,16 @@
 <h3 align="center">A Full Stack Developer  Junior from  San Miguel de Tucuman,Tucuman, Argentina</h3>
 
 - I've graduated from [soyHenry](https://www.linkedin.com/school/henryok/)
+- About Me
+ 
+Who I am?
+My name is Patricia, I studied Web Development Full Stack at Henry school, since 1st March to June, of 2022.
+also I`m a dentist, I studied in the National University of Tucuman, and after that I`d got a prothesis specialitation.
+I decided to study web development because I think it`s really interesting, and I like it so much,
+
+Why me?
+All the members of this community have excellent technical skills, however with me you will get a curious developer with great problem solving skills and above all a developer always willing to teach and learn from others.
+
 
 - 🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
 
@@ -12,6 +22,9 @@
 
 
 - 📫 How to reach me **castillopatriciac@gmail.com**
+
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

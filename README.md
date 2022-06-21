@@ -3,8 +3,8 @@
 <h3 align="center">A Full Stack Developer  Junior from  San Miguel de Tucuman,Tucuman, Argentina</h3>
 
 - I've graduated from [soyHenry](https://www.linkedin.com/school/henryok/)
-- 
-- - 🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
+
+-  🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
 
 - 👯 I've also worked with a Team of Developers, in this project [Luxurent](https://final-project-henry.vercel.app/)
 

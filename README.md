@@ -2,7 +2,7 @@
 <h1 align="center">Hi! My name is Patricia</h1>
 <h3 align="center">A Full Stack Developer  Junior from  San Miguel de Tucuman,Tucuman, Argentina</h3>
 
-- I've graduated from [soyHenry](https://www.linkedin.com/school/henryok/)
+- I've graduated from [Henry](https://www.linkedin.com/school/henryok/)
 
 -  🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
 

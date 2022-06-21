@@ -1,11 +1,13 @@
+
 <h1 align="center">Hi! My name is Patricia</h1>
 <h3 align="center">A Full Stack Developer from Tucuman, Argentina</h3>
 
 - 🔭 I worked on a educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
 
+- 👯 and with a team in [Luxurent](https://final-project-henry.vercel.app/)
+
 - 🌱 I’m currently learning **ReactJs,NodeJs,Redux,Express,Sequelize and PostgresSql Postgres**
 
-- 👯 and with a team in [Luxurent](https://final-project-henry.vercel.app/)
 
 - 📫 How to reach me **castillopatriciac@gmail.com**
 

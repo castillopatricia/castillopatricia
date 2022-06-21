@@ -3,6 +3,17 @@
 <h3 align="center">A Full Stack Developer  Junior from  San Miguel de Tucuman,Tucuman, Argentina</h3>
 
 - I've graduated from [soyHenry](https://www.linkedin.com/school/henryok/)
+- - 🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
+
+- 👯 I've also worked with a Team of Developers, in this project [Luxurent](https://final-project-henry.vercel.app/)
+
+- 🌱 I’m currently learning **ReactJs,NodeJs,Redux,Express,Sequelize and PostgresSql Postgres**
+
+
+- 📫 How to reach me **castillopatriciac@gmail.com**
+
+
+
 - About Me
  
 Who I am?
@@ -14,16 +25,6 @@ Why me?
 All the members of this community have excellent technical skills, however with me you will get a curious developer with great problem solving skills and above all a developer always willing to teach and learn from others.
 
 
-- 🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
-
-- 👯 I've also worked with a Team of Developers, in this project [Luxurent](https://final-project-henry.vercel.app/)
-
-- 🌱 I’m currently learning **ReactJs,NodeJs,Redux,Express,Sequelize and PostgresSql Postgres**
-
-
-- 📫 How to reach me **castillopatriciac@gmail.com**
-
- 
 
 
 <h3 align="left">Connect with me:</h3>

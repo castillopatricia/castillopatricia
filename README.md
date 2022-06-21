@@ -18,8 +18,8 @@
  
 Who I am?
 My name is Patricia, I studied Web Development Full Stack at Henry school, since 1st March to June, of 2022.
-also I`m a dentist, I studied in the National University of Tucuman, and after that I`d got a prothesis specialitation.
-I decided to study web development because I think it`s really interesting, and I like it so much,
+also I'm a dentist, I studied in the National University of Tucuman, and after that I'd got a prothesis specialitation.
+I decided to study web development because I think it's really interesting, and I like it so much,
 
 Why me?
 All the members of this community have excellent technical skills, however with me you will get a curious developer with great problem solving skills and above all a developer always willing to teach and learn from others.

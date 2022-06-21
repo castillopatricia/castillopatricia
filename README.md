@@ -3,6 +3,7 @@
 <h3 align="center">A Full Stack Developer  Junior from  San Miguel de Tucuman,Tucuman, Argentina</h3>
 
 - I've graduated from [soyHenry](https://www.linkedin.com/school/henryok/)
+- 
 - - 🔭 I've  worked on an educational project [Pokemon App](https://pokeapp25-castillopatricia.vercel.app/)
 
 - 👯 I've also worked with a Team of Developers, in this project [Luxurent](https://final-project-henry.vercel.app/)
@@ -17,7 +18,7 @@
 - About Me
  
 Who I am?
-My name is Patricia, I studied Web Development Full Stack at Henry school, since 1st March to June, of 2022.
+My name is Patricia, I studied Web Development Full Stack at SoyHenry school, since March to June, of 2022.
 also I'm a dentist, I studied in the National University of Tucuman, and after that I'd got a prothesis specialitation.
 I decided to study web development because I think it's really interesting, and I like it so much,
 
@@ -45,4 +46,8 @@ All the members of this community have excellent technical skills, however with 
 <img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20025013.png'>
 <img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20025042.png'>
 <img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20025120.png'>
+<img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20025824.png'>
+<img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20025851.png'>
+<img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20025939.png'>
+<img src='https://github.com/castillopatricia/castillopatricia/blob/main/Annotation%202022-06-21%20030042.png'>
 

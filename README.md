@@ -1,4 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/castillopatricia/castillopatricia/main/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.webp">
 <h1 align="center">Hi! My name is Patricia</h1>
 <h3 align="center">A Full Stack Developer from Tucuman, Argentina</h3>
 

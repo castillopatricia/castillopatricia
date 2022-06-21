@@ -41,5 +41,7 @@ All the members of this community have excellent technical skills, however with 
 
 
 📌 Some screenshots of my proyects:
+<img src='https://github.com/castillopatricia/castillopatricia/blob/main/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.webp'>
+<img src=''>
 
 
